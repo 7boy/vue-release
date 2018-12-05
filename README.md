@@ -1,6 +1,6 @@
 > 关于一键打包发布Vue项目的方法有很多，这里介绍用nodejs + ssh2模块上传文件至服务器
 
-- [源码点这里](http://note.youdao.com/)
+- [文档地址](http://7coder.top/2018/12/05/%E4%B8%80%E9%94%AE%E6%89%93%E5%8C%85%E5%8F%91%E5%B8%83Vue%E9%A1%B9%E7%9B%AE/)
 
 ### 步骤
 1. 打包并压缩dist文件夹
@@ -134,4 +134,4 @@ const shellList = [
     2.备份旧的压缩包
     3....
 
-- [源码点这里](http://note.youdao.com/)
+- [文档地址](http://7coder.top/2018/12/05/%E4%B8%80%E9%94%AE%E6%89%93%E5%8C%85%E5%8F%91%E5%B8%83Vue%E9%A1%B9%E7%9B%AE/)
